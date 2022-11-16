@@ -1,1 +1,2 @@
-config-dev.yml的测试内容
+config:
+  info: test
